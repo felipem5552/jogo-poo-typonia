@@ -1,24 +1,66 @@
-# typetania-poo-game
+**Este é um fork de um repositório feito pelo Professor Vinicius Oliveira: https://github.com/viniciusredes**
+# Typetania — Guia rápido para rodar localmente
 
-Jogo criado para ensinar de maneira prática e lúdica Orientação a Objetos com typescript
+> Jogo criado para ensinar de forma prática e lúdica Programação Orientada a Objetos com TypeScript.
 
-1. Execute o comando de clonagem:
-   git clone https://github.com/usuario/repositorio.git
-2. Abra o VS Code
-3. Vá em Arquivo (File) > Abrir Pasta (Open Folder)
-4. Abrir o Terminal do VS Code
-5. Instale o pacote pnpm com o comando: 
-   ```npm install -g pnpm```
-6. Instale todas as dependencias com o comando: 
-   ```pnpm install```
-7. Execute o script de inicialização com o comando: 
-   ```pnpm run dev```
-8. Após a execução, o terminal mostrará uma mensagem como esta
+>  **🧩 Gabarito de níveis já resolvidos**  
+   🔗 [Acessar Exercícios](https://github.com/felipem5552/javascript-iniciante/tree/main/jogo-poo-typonia/niveis-concluidos)  
+   💬 *Níveis (Exercícios) resolvidos por mim.*
+
+---
+
+## Passo a passo
+
+### 1. Clonar o repositório
+```bash
+git clone https://github.com/usuario/repositorio.git
 ```
-   VITE v... ready in ...ms
+Isso copia o projeto do GitHub para o seu computador.  
+Depois que o comando terminar, você terá uma pasta nova com os arquivos do jogo.
+
+---
+
+### 2. Abrir o projeto no VS Code
+- Abra o **VS Code**
+- Vá em **Arquivo → Abrir Pasta...**
+- Escolha a pasta clonada do projeto
+
+---
+
+### 3. Abrir o terminal no VS Code
+- Vá em **Terminal → Novo Terminal**
+- Verifique se o terminal está na pasta do projeto
+
+---
+
+### 4. Instalar o pnpm
+```bash
+npm install -g pnpm
+```
+Instala o **pnpm**, um gerenciador de pacotes usado no projeto.
+
+---
+
+### 5. Instalar as dependências
+```bash
+pnpm install
+```
+Baixa todas as bibliotecas necessárias para o jogo funcionar.
+
+---
+
+### 6. Rodar o jogo
+```bash
+pnpm run dev
+```
+Após executar, o terminal mostrará algo como:
+
+```
+VITE vX.Y.Z ready in 1234 ms
 
 ➜  Local: http://localhost:5173/
 ➜  Network: use --host to enable
 ```
 
-9. Clique no link http://localhost:5173/ ou copie e cole-o no seu navegador
+Abra o link `http://localhost:5173/` no seu navegador para jogar.
+
