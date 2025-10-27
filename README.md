@@ -4,7 +4,7 @@
 > Jogo criado para ensinar de forma prática e lúdica Programação Orientada a Objetos com TypeScript.
 
 >  **🧩 Gabarito de níveis já resolvidos**  
-   🔗 [Acessar Exercícios](https://github.com/felipem5552/javascript-iniciante/tree/main/jogo-poo-typonia/niveis-concluidos)  
+   🔗 [Acessar Exercícios](https://github.com/felipem5552/jogo-poo-typonia/tree/master/niveis-concluidos)  
    💬 *Níveis (Exercícios) resolvidos por mim.*
 
 ---
