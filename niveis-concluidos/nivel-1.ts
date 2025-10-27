@@ -17,7 +17,8 @@ class Defensor {
 
 
 
-
-
 const defensor1 = new Defensor ("Felipe", "Ladino", 10);
 const defensor2 = new Defensor ("Elida", "Mago", 24);
+
+console.log(defensor1);
+console.log(defensor2);
