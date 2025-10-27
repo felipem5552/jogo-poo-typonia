@@ -13,7 +13,7 @@
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone git clone https://github.com/usuario/repositorio.git
 ```
 Isso copia o projeto do GitHub para o seu computador.  
 Depois que o comando terminar, você terá uma pasta nova com os arquivos do jogo.
